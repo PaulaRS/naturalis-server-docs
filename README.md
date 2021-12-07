@@ -1,2 +1,3 @@
 # marine-evolution-docs
-Documentation resources for the marine-evolution server
+
+For documentation resources on the marine-evolution server check the [Wiki](https://github.com/PaulaRS/marine-evolution-docs/wiki/Hello-server).
